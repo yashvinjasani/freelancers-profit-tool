@@ -63,3 +63,21 @@ Follow these steps to run the project locally.
 ```bash
 git clone [https://github.com/yashvinjasani/freelancers-profit-tool.git](https://github.com/yashvinjasani/freelancers-profit-tool.git)
 cd freelancers-profit-tool
+
+### 2. Backend Setup
+Navigate to the backend folder and install Python dependencies.
+
+```bash
+cd backend
+# Create a virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the server
+python app.py
+
+🤝 Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or improvements.
