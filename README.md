@@ -83,12 +83,18 @@ python app.py
 
 ### 3. Frontend Setup
 Open a new terminal, navigate to the frontend folder, and start the Expo app.
+
 ```bash
 cd frontend
 npm install
 npx expo start
 ```
-###📸 Screenshots
 
-###🤝 Contributing
+### 📸 Screenshots
+
+<img width="630" height="920" alt="Gemini_Generated_Image_evj73kevj73kevj7" src="https://github.com/user-attachments/assets/4e5dbaa2-0236-4727-b296-1485e6a5d241" />
+
+
+
+### 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or improvements.
