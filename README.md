@@ -63,6 +63,7 @@ Follow these steps to run the project locally.
 ```bash
 git clone [https://github.com/yashvinjasani/freelancers-profit-tool.git](https://github.com/yashvinjasani/freelancers-profit-tool.git)
 cd freelancers-profit-tool
+```
 
 ### 2. Backend Setup
 Navigate to the backend folder and install Python dependencies.
@@ -78,6 +79,16 @@ pip install -r requirements.txt
 
 # Run the server
 python app.py
+```
 
-🤝 Contributing
+### 3. Frontend Setup
+Open a new terminal, navigate to the frontend folder, and start the Expo app.
+```bash
+cd frontend
+npm install
+npx expo start
+```
+###📸 Screenshots
+
+###🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any bugs or improvements.
