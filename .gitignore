@@ -1,0 +1,16 @@
+# Python garbage
+__pycache__/
+venv/
+*.pyc
+
+# Database (Optional: Keep it if you want the "Test Client" data, ignore if you want a clean repo)
+# freelance.db 
+
+# Node Modules (NEVER upload this, it's huge)
+node_modules/
+.expo/
+npm-debug.log
+
+# Mac/Windows system files
+.DS_Store
+Thumbs.db
